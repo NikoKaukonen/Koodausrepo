@@ -1,0 +1,2 @@
+# Koodausrepo
+ Koodia, skriptejä, yms.
